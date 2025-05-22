@@ -31,5 +31,5 @@ Projeto Java Spring Boot para gerenciamento de Pacientes, Profissionais de Saúd
 ### 2. Clonar o repositório
 
 ```bash
-git clone https://github.com/RaphaelBatizati/checkpoint3.git
+git clone https://github.com/Seergin/checkpoint3MS.git
 cd checkpoint3
